@@ -55,7 +55,9 @@
 
 }*/
 
+//lknhkuj kj//
 //EX6
+//555
 
 int main(){
 	int x;
