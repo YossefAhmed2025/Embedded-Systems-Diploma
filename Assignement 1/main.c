@@ -55,11 +55,11 @@
 
 }*/
 
-//lknhkuj kj//
-//EX6
-//555
 
-int main(){
+//EX6
+
+
+/*int main(){
 	int x;
 	int y;
 	int temp;
@@ -75,7 +75,26 @@ int main(){
 	printf("second nummer After swap: %d",y);
 
 
-}
+}*/
+
+//EX7
+
+
+/*int main(){
+	int x;
+	int y;
+	printf("enter two number to swap: \n");
+	fflush(stdin);fflush(stdout);
+	scanf("%d %d",&x,&y);
+	printf("frist nummer before swap: %d\n",x);
+	printf("second nummer before swap: %d\n",y);
+	x=x+y;
+	y=x-y;
+	x=x-y;
+	printf("First number After swap: %d \n",x);
+	printf("second number After swap: %d \n",y);}
+*/
+
 
 
 
